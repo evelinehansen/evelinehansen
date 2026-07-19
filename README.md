@@ -1,6 +1,7 @@
 ### About these tools
 - All were made with AI / Claude, but steered by my ideas and direction.
-- They were built mainly for my own learning and use; As experiments both to see what AI can do, and as a learning process to work with Claude Code and Github.
+- I experiment both to see what AI can do, and as a learning process to work with Claude Code and Github.
+- The tools were built mainly for my own learning and use, with mobile view as primary UI.
 - They all share the same philosophy and goal: To be small, useful tools that are completely independent after publishing. They should work without any licenses or AI usage. AI was used to build them, but not to run them.
 - Feel free to explore, but be mindful of your own privacy. The tools use localStorage in your browser. Avoid sensitive information, and use the export function to get backups of your data (Browsers might empty the storage after 7+ days if you haven't touched it). If you prefer markdown backups, use the [Json converter tool](https://evelinehansen.github.io/json-converter/).
 - To install a tool as an app on your phone: Open it in phone browser > Share > Save to homescreen.
