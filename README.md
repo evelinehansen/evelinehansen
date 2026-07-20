@@ -1,7 +1,7 @@
 ### About these tools
-Built with Claude, steered by my ideas. Partly experimentation (seeing what AI can do), partly learning Claude Code and GitHub.
+They all share the same philosophy and goal: To be small, useful tools that are completely independent after publishing. No licenses, no AI needed to run them. AI only helped build them. Made mainly for my own learning and use, mobile-first.
 
-They all share the same philosophy and goal: To be small, useful tools that are completely independent after publishing. No licenses, no AI needed to run them. AI only helped build them. Built mainly for my own learning and use, mobile-first.
+Built with Claude, steered by my ideas. Partly experimentation (seeing what AI can do), partly learning Claude Code and GitHub.
 
 Explore freely, but mind your privacy. Data is stored in your browser's localStorage, so avoid sensitive info, and use the export function for backups (browsers may clear storage after 7+ days of inactivity). Want markdown backups instead? Use the [JSON converter tool](https://evelinehansen.github.io/json-converter/).
 
