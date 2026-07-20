@@ -1,5 +1,5 @@
 ### About these tools
-Built with AI / Claude, steered by my ideas. Partly experimentation (seeing what AI can do), partly learning Claude Code and GitHub.
+Built with Claude, steered by my ideas. Partly experimentation (seeing what AI can do), partly learning Claude Code and GitHub.
 
 They all share the same philosophy and goal: To be small, useful tools that are completely independent after publishing. No licenses, no AI needed to run them. AI only helped build them. Built mainly for my own learning and use, mobile-first.
 
