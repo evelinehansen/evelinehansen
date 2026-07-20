@@ -1,10 +1,13 @@
 ### About these tools
-- All were made with AI / Claude, but steered by my ideas and direction.
-- I experiment both to see what AI can do, and as a learning process to work with Claude Code and Github.
-- The tools were built mainly for my own learning and use, with mobile view as primary UI.
-- They all share the same philosophy and goal: To be small, useful tools that are completely independent after publishing. They should work without any licenses or AI usage. AI was used to build them, but not to run them.
-- Feel free to explore, but be mindful of your own privacy. The tools use localStorage in your browser. Avoid sensitive information, and use the export function to get backups of your data (Browsers might empty the storage after 7+ days if you haven't touched it). If you prefer markdown backups, use the [Json converter tool](https://evelinehansen.github.io/json-converter/).
-- To install a tool as an app on your phone: Open it in phone browser > Share > Save to homescreen.
+Built with AI / Claude, steered by my ideas. Partly experimentation (seeing what AI can do), partly learning Claude Code and GitHub.
+
+They all share the same philosophy and goal: To be small, useful tools that are completely independent after publishing. No licenses, no AI needed to run them. AI only helped build them. Built mainly for my own learning and use, mobile-first.
+
+Explore freely, but mind your privacy. Data is stored in your browser's localStorage, so avoid sensitive info, and use the export function for backups (browsers may clear storage after 7+ days of inactivity). Want markdown backups instead? Use the [JSON converter tool](https://evelinehansen.github.io/json-converter/).
+
+To install as an app on your phone: open in browser > Share > Save to homescreen.
+
+---
 
 ### Tools (mainly, but not exclusively) for runners
 - [When should I run](https://evelinehansen.github.io/when-should-i-run/): Plan when to run, based on weather and daylight.
