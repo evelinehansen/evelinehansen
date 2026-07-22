@@ -14,6 +14,7 @@ To install as an app on your phone: open in browser > Share > Save to homescreen
 - [What should I wear](https://evelinehansen.github.io/what-should-i-wear/): Plan what to wear on your run, based on weather and your own wardrobe and history.
 - [Level up](https://evelinehansen.github.io/level-up/): Log and count your small victories (against dørstokkmila).
 - [Niggle log](https://evelinehansen.github.io/niggle-log/): Log niggles, spot patterns.
+- [Marathon countdown](https://evelinehansen.github.io/marathon-countdown/): Countdown to your race day, and compare training plans.
 
 ### Tools for life
 - [Decision builder](https://evelinehansen.github.io/decision-builder/): Should I ...? Use this tool to check.
