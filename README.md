@@ -13,7 +13,7 @@ To install as an app on your phone: open in browser > Share > Save to homescreen
 - [When should I run](https://evelinehansen.github.io/when-should-i-run/): Plan when to run, based on weather forecast and daylight.
 - [What should I wear](https://evelinehansen.github.io/what-should-i-wear/): Plan what to wear on your run, based on weather and your own wardrobe and history.
 - [Level up](https://evelinehansen.github.io/level-up/): Log and count your small victories (against dørstokkmila).
-- [Niggle log](https://evelinehansen.github.io/niggle-log/): Log niggles, spot patterns.
+- [Niggle log](https://evelinehansen.github.io/niggle-log/): Log niggles, even the small ones, and spot patterns over time.
 - [Marathon countdown](https://evelinehansen.github.io/marathon-countdown/): Count down to your race day, and compare training plans.
 
 ### Tools for life
