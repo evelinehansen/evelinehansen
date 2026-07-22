@@ -21,6 +21,7 @@ To install as an app on your phone: open in browser > Share > Save to homescreen
 - [Someday lease](https://evelinehansen.github.io/someday-lease/): Bucket List with a periodic review twist.
 - [Worry ledger](https://evelinehansen.github.io/worry-ledger/):  Park your worries, and check how many (don't) come true.
 - [Prediction ledger](https://evelinehansen.github.io/prediction-ledger/): Log predictions, and see how often you are right.
+- [Values tournament](https://evelinehansen.github.io/values-tournament/): Explore what's more important to you.
 
 ### Tools for fun
 - [Skill tree](https://evelinehansen.github.io/skill-tree/): Build and grow simple skill trees.
